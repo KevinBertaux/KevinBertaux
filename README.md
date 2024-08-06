@@ -7,7 +7,7 @@
 🤝 I'm looking for help to become even better.<br>
 🌱 I'm currently learning Azure DevOps and CI/CD in general.<br>
 💬 Ask me about what you want, and we'll talk.<br>
-⚡ Fun fact: I got my washing machine out of the underworld for less than $10. *No all is about dev* 😄
+⚡ Fun fact: I got my washing machine out of the underworld for less than $10. *Not all is about dev* 😄
 
 
 ## 🌐 Socials:
