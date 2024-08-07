@@ -6,7 +6,7 @@
 👐🏻 I'm looking to collaborate on whatever you want, make me dream.<br>
 🤝 I'm looking for help to become even better.<br>
 🌱 I'm currently learning Azure DevOps and CI/CD in general.<br>
-💬 Ask me about what you want, and we'll talk.<br>
+💬 Just ask me what you want and let's talk.<br>
 ⚡ Fun fact: I got my washing machine out of the underworld for less than $10. *Not all is about dev* 😄
 
 
